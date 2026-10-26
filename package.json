@@ -1,7 +1,7 @@
 {
   "name": "automation-folder-inventory",
   "version": "1.0.0",
-  "description": "Inventaire de dossier / Folder inventory — script Node.js sans dépendance",
+  "description": "Folder inventory: dependency-free Node.js script",
   "type": "module",
   "license": "MIT",
   "author": "Elzam MAMAH <ceo@monsieurelzam.com> (https://monsieurelzam.com)",
@@ -18,7 +18,7 @@
     "type": "git",
     "url": "git+https://github.com/MonsieurElzam/automation-folder-inventory.git"
   },
-  "homepage": "https://monsieurelzam.com/scripts",
+  "homepage": "https://monsieurelzam.com/en/scripts",
   "keywords": [
     "automation",
     "cli",
